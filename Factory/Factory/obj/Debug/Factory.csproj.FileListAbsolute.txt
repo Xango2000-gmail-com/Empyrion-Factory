@@ -1,0 +1,16 @@
+C:\Users\Nick\Source\Repos\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\Factory\Factory\bin\Debug\Factory.dll
+C:\Users\Nick\Source\Repos\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\Nick\Source\Repos\Factory\Factory\obj\Debug\Factory.dll
+C:\Users\Nick\Source\Repos\Factory\Factory\obj\Debug\Factory.pdb
+F:\Repos\Factory\Factory\bin\Debug\Factory.dll
+F:\Repos\Factory\Factory\bin\Debug\Factory.pdb
+F:\Repos\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+F:\Repos\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+F:\Repos\Factory\Factory\obj\Debug\Factory.dll
+F:\Repos\Factory\Factory\obj\Debug\Factory.pdb
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Factory\Factory.dll
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Factory\Factory.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Factory\Factory.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\Factory\Factory.pdb
